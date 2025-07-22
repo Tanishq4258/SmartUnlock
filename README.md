@@ -59,5 +59,3 @@ The project integrates face detection, emotion tracking, Telegram alerts, keypad
 
 ---
 
-## 📦 Folder Structure
-
